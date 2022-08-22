@@ -8,7 +8,7 @@ const Btn = styled.button`
   border: none;
   padding: 0.5em;
   font-size: 0.5em;
-  background-color: skyblue;
+  background-color: pink;
   margin: 5px;
   &:hover {
     cursor: pointer;
